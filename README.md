@@ -27,8 +27,6 @@
 
 ###
 
-<br clear="both">
-
 <img href="https://raw.githubusercontent.com/paulo-pssj/paulo-pssj/blob/output/snake.svg" alt="Snake animation" />
 
 ###
